@@ -1,0 +1,15 @@
+itsy-bitsy-bash-script-repo
+===========================
+
+This collection of small used scripts is mainly commited to prevent them for getting lost in space.
+
+* Example usage
+---------------
+
+*/5 */8 * * * /home/ctietze/cronscripts/diskalert.sh >> /home/ctietze/cronlogs/diskalert.log
+
+LICENSE
+-------
+Copyright 2013 Clemens Tietze
+
+Released under the MIT and GPL Licenses.
