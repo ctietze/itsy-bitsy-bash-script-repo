@@ -1,5 +1,7 @@
 #!/bin/bash
 # Establish ssh tunnel, execute a command or script and close the ssh tunnel
+# It is recommended to use ssh keys, see https://help.github.com/articles/generating-ssh-keys
+#
 # Copyright 2013 Clemens Tietze
 # Released under the MIT and GPL Licenses.
 # 
